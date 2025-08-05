@@ -4,8 +4,7 @@
 
 ### Redes sociais
 
-<p align="left"> </p> <a href="https://www.github.com/anab1231" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" título="GitHub" /> </imagem> </a>## Hi there 👋
-
+<p align="left"> <a href="https://www.github.com/anab1231" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" altura="32" alt="GitHub" título="GitHub" /> </imagem> </a> </p>
 <!--
 **anab1231/anab1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
