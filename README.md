@@ -34,8 +34,8 @@ Acredito que com foco e fé, tudo é possível! ✨
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=natalia290810&show_icons=true&theme=radical&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia290810&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anab1231&show_icons=true&theme=radical&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anab1231&layout=compact&theme=radical"/>
 </p>
 
 ---
