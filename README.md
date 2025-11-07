@@ -7,7 +7,7 @@
   📧 <a href="mailto:anabeatriz76989@gmail.com">anabeatriz76989@gmail.com</a>
 </p>
 🌐 Conecte-se comigo:
-LinkedIn (https://www.linkedin.com/in/ana beatris alves/)
+LinkedIn (https://www.linkedin.com/in/anabeatrisalves/)
 
 
 ### 🚀 Sobre mim
