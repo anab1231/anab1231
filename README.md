@@ -4,7 +4,7 @@
 <p align="center">
   💻 Estudante de <strong>Programação Web</strong> na instituição <strong>Obra Social Dom Bosco – Itaquera</strong> <br>
   📍 São Paulo, Brasil <br>
-  📧 <a href="mailto:nataliaalvesfreitas93@gmail.com">nataliaalvesfreitas93@gmail.com</a>
+  📧 <a href="mailto:anabeatriz76989@gmail.com">anabeatriz76989@gmail.com</a>
 </p>
 🌐 Conecte-se comigo:
 LinkedIn (https://www.linkedin.com/in/ana beatris alves/)
