@@ -2,7 +2,7 @@
 <h1 align="center">👋 Olá, eu sou a <strong>Ana beatris Alves</strong>!</h1>
 
 <p align="center">
-  💻 Estudante de <strong>Programação Web</strong> na instituição <strong>Obra Social Dom Bosco – Itaquera</strong> <br>
+  💻 Estudante de <strong>Programação</strong> na instituição <strong>Obra Social Dom Bosco é universidade da cidade de São Paulo (unicid)– Itaquera</strong> <br>
   📍 São Paulo, Brasil <br>
   📧 <a href="mailto:anabeatriz76989@gmail.com">anabeatriz76989@gmail.com</a>
 </p>
@@ -11,7 +11,7 @@ LinkedIn (https://www.linkedin.com/in/anabeatrisalves/)
 
 
 ### 🚀 Sobre mim
-Sou apaixonada por tecnologia e estou construindo minha jornada como desenvolvedora web.  
+Sou apaixonada por tecnologia e estou construindo minha jornada como desenvolvedora .  
 Gosto de aprender novas linguagens, criar projetos criativos e transformar ideias em código.  
 Acredito que com foco e fé, tudo é possível! ✨  
 
@@ -22,6 +22,8 @@ Acredito que com foco e fé, tudo é possível! ✨
 - CSS  
 - JavaScript  
 - Git & GitHub  
+C shap 
+
 
 ---
 
