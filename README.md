@@ -40,14 +40,15 @@ C shap
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anab1231&layout=compact&theme=radical"/>
 </p>
 
----
-
-### 🌈 Conecte-se comigo:
-<p align="center">
-  <a href="https://github.com/anab1231" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-<p
+### 📂 Portfólio de Projetos
+ 
+#### 🗃️ Modelagem de Banco de Dados
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Sistema de modelagem de banco de dados ** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto]() |
+ 
+#### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **projeto sampa da mulher ** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto]() |
+ 
