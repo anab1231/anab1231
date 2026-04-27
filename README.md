@@ -1,35 +1,37 @@
-<!-- Banner ou apresentação -->
-<h1 align="center">👋 Olá, eu sou a <strong>Ana beatris Alves</strong>!</h1>
+<h1 align="center">👋 Olá, eu sou a <strong>Ana Beatris Alves</strong>!</h1>
 
 <p align="center">
-  💻 Estudante de <strong>Programação</strong> na instituição <strong>Obra Social Dom Bosco é universidade da cidade de São Paulo (unicid)– Itaquera</strong> <br>
+  💻 Estudante de <strong>Engenharia de Software</strong> na <strong>UNICID</strong> e <strong>Obra Social Dom Bosco</strong> <br>
   📍 São Paulo, Brasil <br>
   📧 <a href="mailto:anabeatriz76989@gmail.com">anabeatriz76989@gmail.com</a>
 </p>
-🌐 Conecte-se comigo:
-LinkedIn (https://www.linkedin.com/in/anabeatrisalves/)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/anabeatrisalves/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
 
 ### 🚀 Sobre mim
-Sou apaixonada por tecnologia e estou construindo minha jornada como desenvolvedora .  
+Sou apaixonada por tecnologia e estou construindo minha jornada como desenvolvedora Full-Stack.  
 Gosto de aprender novas linguagens, criar projetos criativos e transformar ideias em código.  
+Atualmente aplico metodologias como **Vibecoding** para prototipagem rápida e foco em UX/UI em sistemas de impacto social.
 Acredito que com foco e fé, tudo é possível! ✨  
 
 ---
 
 ### 🧠 Atualmente estudando:
-- HTML 
-- CSS  
-- JavaScript  
-- Git & GitHub  
-C shap 
-
+- **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript e React.
+- **Backend:** Python, C#, PHP e C++.
+- **DevOps/Tools:** Git, GitHub, Firebase e SQL.
 
 ---
 
 ### 🛠️ Tecnologias e ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,py,cs,cpp,php,firebase,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -37,38 +39,37 @@ C shap
 ### 📊 Estatísticas do GitHub
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anab1231&show_icons=true&theme=radical&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anab1231&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anab1231&layout=compact&theme=radical"/>
 </p>
+
+---
 
 ### 📂 Portfólio de Projetos
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Smart-sampa-da-mulher-** | Projeto pessoal com o objetivo de ajudar mulheres vítimas de feminicídio. | [Ver Projeto](./Smart-sampa-da-mulher-/) |
-| **Projeto-markneural** | Projeto da faculdade desenvolvido para a aula do prof: Diego. | [Ver Projeto](./projeto-markneural/) |
-| **Mercado** | Projeto de faculdade focado em e-commerce e sistemas de vendas. | [Ver Projeto](./mercado/) |
-| **Projeto-em-python_finance** | Aplicação de gestão ou análise financeira desenvolvida em Python. | [Ver Projeto](./projeto-em-python_finance/) |
-| **Projeto-em-python** | Projeto realizado na faculdade como projeto de aprimoramento técnico. | [Ver Projeto](./projeto-em-python/) |
-| **Banco-de-dados-PHP** | Implementação de banco de dados e lógica em ambiente PHP. | [Ver Projeto](./banco-de-dados-PHP/) |
-| **Projeto-mobilidade** | Tecnologia e sustentabilidade em parceria com a Obra Social Dom Bosco. | [Ver Projeto](./projeto-mobilidade/) |
-| **Projeto-sistemadigital** | Projeto solo de faculdade feito para melhorar a experiência do usuário. | [Ver Projeto](./projeto-sistemadigital/) |
-| **Calculadora-em-C-** | Calculadora funcional via terminal desenvolvida para aula de lógica. | [Ver Projeto](./calculadora-em-C-/) |
-| **Arquivos-C++** | Estudo de manipulação de arquivos e fluxos de dados em C++. | [Ver Projeto](./arquivos-/) |
-| **Teste-Arduino** | Prototipagem eletrônica e testes de hardware (teste da alma). | [Ver Projeto](./teste-Arduino/) |
-| **Mobiliária** | Projeto de interface web voltado para o setor imobiliário. | [Ver Projeto](./mobiliária/) |
-| **Rodoviária** | Estruturação de interface para sistema de gestão rodoviária. | [Ver Projeto](./rodoviária/) |
-| **Elementos-épicos** | Estudo de componentes visuais e estilização avançada em HTML. | [Ver Projeto](./elementos-épicos/) |
-| **Projeto-img** | Repositório focado em manipulação e otimização de imagens na web. | [Ver Projeto](./projeto-img/) |
-| **Projeto-tabela1** | Estruturação de dados complexos utilizando tabelas HTML. | [Ver Projeto](./projeto-tabela1/) |
+| **Smart-sampa-da-mulher-** | Apoio a mulheres vítimas de feminicídio (Projeto Pessoal). | [Ver Projeto](./Smart-sampa-da-mulher-/) |
+| **Projeto-markneural** | Projeto acadêmico para a aula do Prof. Diego. | [Ver Projeto](./projeto-markneural/) |
+| **Mercado (NeuralMarket)** | E-commerce com estética Glassmorphism. | [Ver Projeto](./mercado/) |
+| **Python Finance** | Aplicação de gestão ou análise financeira em Python. | [Ver Projeto](./projeto-em-python_finance/) |
+| **SUS Digital** | Gestão de saúde e UX focado no usuário. | [Ver Projeto](./projeto-sistemadigital/) |
+| **Banco-de-dados-PHP** | Implementação de banco de dados e lógica PHP. | [Ver Projeto](./banco-de-dados-PHP/) |
+| **Projeto-mobilidade** | Sustentabilidade tecnológica (Dom Bosco). | [Ver Projeto](./projeto-mobilidade/) |
+| **Calculadora-em-C-** | Calculadora funcional via terminal (Lógica em C). | [Ver Projeto](./calculadora-em-C-/) |
+| **Arquivos-C++** | Manipulação de arquivos e dados em C++. | [Ver Projeto](./arquivos-/) |
+| **Teste-Arduino** | Prototipagem eletrônica e hardware. | [Ver Projeto](./teste-Arduino/) |
+| **Mobiliária** | Interface web para o setor imobiliário. | [Ver Projeto](./mobiliária/) |
+| **Rodoviária** | Interface para sistema de gestão de transportes. | [Ver Projeto](./rodoviária/) |
+| **Elementos-épicos** | Estudo de componentes visuais avançados em HTML/CSS. | [Ver Projeto](./elementos-épicos/) |
+| **JK-finanças** | Interface para controle de cálculos e gastos. | [Ver Projeto](./jk-finanças/) |
 | **Acesso-secreto** | Implementação de fluxos de acesso e áreas restritas. | [Ver Projeto](./acesso-secreto/) |
-| **JK-finanças** | Interface financeira para controle de cálculos e gastos. | [Ver Projeto](./jk-finanças/) |
-| **JK-financec1** | Evolução do projeto de interface financeira e outras atualizações. | [Ver Projeto](./jk-financec1/) |
-| **Prática-html / Prática01** | Conjunto de exercícios fundamentais para domínio da linguagem. | [Ver Projeto](./pratica_html/) |
-| **Projeto-05 / Projeto-C-** | Repositórios focados em lógica de programação e estruturas de dados. | [Ver Projeto](./projeto-05/) |
-| **Aula-JavaScript** | Repositório de estudos e exercícios de lógica com JavaScript. | [Ver Projeto](./AULA-JAVASCRIPT/) |
-| **Sistemas-** | Estudo de estilização e arquitetura de sistemas com CSS. | [Ver Projeto](./sistemas-/) |
-| **Portfólio1** | Primeira estrutura de portfólio pessoal (potifolia). | [Ver Projeto](./portfólio1/) |
-| **Aula1-** | Práticas iniciais realizadas em aula. | [Ver Projeto](./aula1-/) |
-| **De-medida** | Projeto para conversão de unidades e cálculos de medidas. | [Ver Projeto](./de-medida/) |
-| **Tutorial-para-desktop** | Repositório de tutoriais para uso do GitHub Desktop. | [Ver Projeto](./tutorial-para-desktop/) |
-| **Natalia290810** | Modelo público derivado para estruturação de perfil. | [Ver Projeto](./natalia290810/) |
+| **Prática-html / Prática01** | Exercícios fundamentais de estruturação web. | [Ver Projeto](./pratica_html/) |
+| **Lógica C (05 / C-)** | Repositórios de lógica e estruturas de dados. | [Ver Projeto](./projeto-05/) |
+| **Aula-JavaScript** | Exercícios e fundamentos de JS. | [Ver Projeto](./AULA-JAVASCRIPT/) |
+| **Tutorial-para-desktop** | Guia de uso do GitHub Desktop. | [Ver Projeto](./tutorial-para-desktop/) |
+
+---
+
+<p align="center">
+  <em>"Transformando linhas de código em soluções reais."</em>
+</p>
