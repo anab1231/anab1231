@@ -35,7 +35,7 @@ Acredito que com foco e fé, tudo é possível! ✨
 
 | Atividade | Descrição Técnica | Entrega | Status |
 | :--- | :--- | :---: | :--- |
-| **SM1 - A Corrida do Prompt** | Técnicas avançadas de interação com LLMs. | 02/03 | (projeto) ✅ Concluído |
+| **SM1 - A Corrida do Prompt** | Técnicas avançadas de interação com LLMs. | 02/03 | (projeto)  não esta Concluído |
 | **SM2 - Lab. de Classificação Visual** | Modelagem e visão computacional aplicada. | 09/03 | (projeto) ✅ Concluído |
 | **SM3 - Batalha de Modelos & XML** | Engenharia de Prompt estruturada com XML. | 23/03 | (projeto) ✅ Concluído |
 | **SM4 - Engenharia Reversa** | Desconstrução e análise de arquiteturas de software. | 31/03 | (projeto) ✅ Concluído |
