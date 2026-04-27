@@ -49,7 +49,7 @@ Acredito que com foco e fé, tudo é possível! ✨
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Smart-sampa-da-mulher-** | Apoio a mulheres vítimas de feminicídio (Projeto Pessoal). | [Ver Projeto](./Smart-sampa-da-mulher-/) |
+| **Smart-sampa-da-mulher-** | Apoio a mulheres vítimas de feminicídio (Projeto Pessoal). | [Ver Projeto https://github.com/anab1231/Smart-sampa-da-mulher-.git](./Smart-sampa-da-mulher-/) |
 | **Projeto-markneural** | Projeto acadêmico para a aula do Prof. Diego. | [Ver Projeto](./projeto-markneural/) |
 | **Mercado (NeuralMarket)** | E-commerce com estética Glassmorphism. | [Ver Projeto](./mercado/) |
 | **Python Finance** | Aplicação de gestão ou análise financeira em Python. | [Ver Projeto](./projeto-em-python_finance/) |
