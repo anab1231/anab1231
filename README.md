@@ -64,12 +64,6 @@ C shap
 | **Prática HTML** | Conjunto de exercícios fundamentais para domínio da linguagem. | [Ver Projeto](./pratica_html/) |
 | **Lógica C** | Repositórios focados em lógica de programação e estruturas. | [Ver Projeto](./projeto-05/) |
 Aqui está o seu portfólio completo, consolidado em uma única estrutura conforme você solicitou, cobrindo todos os repositórios desde os destaques em TypeScript até os estudos de base em HTML e C.
-
-### 📂 Portfólio de Projetos
-
-#### 🗃️ Modelagem de Banco de Dados e Sistemas
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
 | **Smart-sampa-da-mulher-** | Projeto pessoal com o objetivo de ajudar mulheres vítimas de feminicídio. | [Ver Projeto](./Smart-sampa-da-mulher-/) |
 | **Projeto-markneural** | Projeto da faculdade desenvolvido para a aula do prof: Diego. | [Ver Projeto](./projeto-markneural/) |
 | **Mercado** | Projeto de faculdade focado em e-commerce e sistemas de vendas. | [Ver Projeto](./mercado/) |
