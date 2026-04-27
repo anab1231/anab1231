@@ -1,10 +1,3 @@
-Aqui está o código completo e formatado para o seu **README.md** do GitHub. Ele une a sua apresentação pessoal, as tecnologias que você usa, o cronograma das SMs e todo o seu portfólio de projetos.
-
-Basta copiar o código abaixo e colar no arquivo principal do seu perfil:
-
----
-
-```markdown
 <h1 align="center">👋 Olá, eu sou a <strong>Ana Beatris Alves</strong>!</h1>
 
 <p align="center">
