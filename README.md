@@ -49,27 +49,7 @@ Acredito que com foco e fé, tudo é possível! ✨
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Smart-sampa-da-mulher-** | Apoio a mulheres vítimas de feminicídio (Projeto Pessoal). | [Ver P<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/bc52eb9d-edf5-426f-a0a4-bdc5b073806c
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-rojeto](./Smart-sampa-da-mulher-/) |
+| **Smart-sampa-da-mulher-** | Apoio a mulheres vítimas de feminicídio (Projeto Pessoal). | [Ver Projeto](./Smart-sampa-da-mulher-/) |
 | **Projeto-markneural** | Projeto acadêmico para a aula do Prof. Diego. | [Ver Projeto](./projeto-markneural/) |
 | **Mercado (NeuralMarket)** | E-commerce com estética Glassmorphism. | [Ver Projeto](./mercado/) |
 | **Python Finance** | Aplicação de gestão ou análise financeira em Python. | [Ver Projeto](./projeto-em-python_finance/) |
