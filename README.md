@@ -42,9 +42,6 @@ C shap
 
 ### 📂 Portfólio de Projetos
 
-#### 🗃️ Modelagem de Banco de Dados e Sistemas
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
 | **Smart-sampa-da-mulher-** | Projeto pessoal focado em ajudar mulheres vítimas de feminicídio. | [Ver Projeto](./Smart-sampa-da-mulher-/) |
 | **Projeto Markneural** | Projeto acadêmico desenvolvido para a aula do Prof. Diego. | [Ver Projeto](./projeto-markneural/) |
 | **Mercado** | Projeto de faculdade focado em e-commerce e gestão de vendas. | [Ver Projeto](./mercado/) |
