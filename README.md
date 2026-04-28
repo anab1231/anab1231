@@ -41,7 +41,7 @@ Acredito que com foco e fé, tudo é possível! ✨
 | **SM4 - Engenharia Reversa** | Desconstrução e análise de arquiteturas de software. | 31/03 | (projeto) ✅ Concluído |
 | **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional. | 07/04 | (projeto) ✅ Concluído |
 | **SM7 - IA com Bubble.io** | Desenvolvimento No-Code integrado com IA. | 22/04 | (projeto) ✅ Concluído |
-| **SM8 - Portfólio no GitHub** | Estruturação de presença digital e documentação. | 27/04 | (projeto) 🚀 Em progresso |
+
 
 ---
 
