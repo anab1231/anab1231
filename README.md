@@ -39,7 +39,7 @@ Acredito que com foco e fé, tudo é possível! ✨
 | **SM2 - Lab. de Classificação Visual** | Modelagem e visão computacional aplicada. | 09/03 | https://github.com/anab1231/Laborat-rio-de-Classifica-o-Visual/blob/main/README.md ✅ Concluído |
 | **SM3 - Batalha de Modelos & XML** | Engenharia de Prompt estruturada com XML. | 23/03 | https://github.com/anab1231/SM3---Batalha-de-Modelos-Engenharia-de-Prompt-XML-/blob/main/README.md ✅ Concluído |
 | **SM4 - Engenharia Reversa** | Desconstrução e análise de arquiteturas de software. | 31/03 | https://github.com/anab1231/SM4---Engenharia-Reversa/blob/main/README.md ✅ Concluído |
-| **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional. | 07/04 | (projeto) ✅ Concluído |
+| **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional. | 07/04 | https://github.com/anab1231/projeto-markneural/blob/main/README.md ✅ Concluído |
 | **SM7 - IA com Bubble.io** | Desenvolvimento No-Code integrado com IA. | 22/04 | (projeto) ✅ Concluído |
 
 
