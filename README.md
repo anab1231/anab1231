@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou a <strong>Ana Beatris Alves</strong>!</h1>
 
 <p align="center">
-  💻 Estudante de <strong>💻 Análise e Desenvolvimento de Sistemas</strong> na <strong>UNICID</strong> e <strong>Obra Social Dom Bosco</strong> <br>
+  💻 Estudante de <strong> Análise e Desenvolvimento de Sistemas</strong> na <strong>UNICID</strong> e <strong>Obra Social Dom Bosco</strong> <br>
   📍 São Paulo, Brasil <br>
   📧 <a href="mailto:anabeatriz76989@gmail.com">anabeatriz76989@gmail.com</a>
 </p>
