@@ -43,6 +43,8 @@ Acredito que com foco e fé, tudo é possível! ✨
 | **SM4 - Engenharia Reversa** | Desconstrução e análise de arquiteturas de software. | 31/03 | https://github.com/anab1231/SM4---Engenharia-Reversa/blob/main/README.md ✅ Concluído |
 | **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional. | 07/04 | https://github.com/anab1231/projeto-markneural/blob/main/README.md ✅ Concluído |
 | **SM7 - IA com Bubble.io** | Desenvolvimento No-Code integrado com IA. | 22/04 | https://github.com/anab1231/SM7---Engenharia-de-Software-e-IA-com-Bubble.io ✅ Concluído |
+| SM9 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi ✅ Concluído |
+
 
 
 ---
@@ -68,17 +70,3 @@ Acredito que com foco e fé, tudo é possível! ✨
 | **JK Finanças** | Interface financeira para controle de cálculos e gastos. | [Ver Projeto](./jk-finanças/) |
 | **Prática HTML** | Conjunto de exercícios fundamentais para domínio da linguagem. | [Ver Projeto](./pratica_html/) |
 | **Lógica C (05 / C-)** | Repositórios focados em lógica e estruturas de dados. | [Ver Projeto](./projeto-05/) |
-
----
-
-### 📊 Estatísticas
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anab1231&show_icons=true&theme=radical&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anab1231&layout=compact&theme=radical"/>
-</p>
-
----
-<p align="center">
-  <em>"Transformando linhas de código em soluções reais."</em>
-</p>
-```
