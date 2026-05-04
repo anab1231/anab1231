@@ -4,7 +4,10 @@
   💻 Estudante de <strong> Análise e Desenvolvimento de Sistemas</strong> na <strong>UNICID</strong> e <strong>Obra Social Dom Bosco</strong> <br>
   📍 São Paulo, Brasil <br>
   📧 <a href="mailto:anabeatriz76989@gmail.com">anabeatriz76989@gmail.com</a>
+<img align="left" height="110" src="https://i.imgflip.com/65efzo.gif" 
 </p>
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anabeatrisalves/">
