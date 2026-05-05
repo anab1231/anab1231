@@ -34,7 +34,7 @@ Acredito que com foco e fé, tudo é possível! ✨
 
 ---
 
-### 📅 Cronograma de Atividades Acadêmicas (Sprints)
+### 🤖 Inteligência Artificial & Inovação
 
 | Atividade | Descrição Técnica | Entrega | Status |
 | :--- | :--- | :---: | :--- |
