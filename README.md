@@ -72,5 +72,7 @@ Acredito que com foco e fé, tudo é possível! ✨
 | **Lógica C (05 / C-)** | Repositórios focados em lógica e estruturas de dados. | [Ver Projeto](./projeto-05/) |
 
 
+<img width="880" height="192" alt="github-snake" src="https://github.com/user-attachments/assets/9c73e34a-e578-495e-861e-6ca4078b970b" /><svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Platane/snk</desc>
+
 
 
