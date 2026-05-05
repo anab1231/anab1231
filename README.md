@@ -70,3 +70,7 @@ Acredito que com foco e fé, tudo é possível! ✨
 | **JK Finanças** | Interface financeira para controle de cálculos e gastos. | [Ver Projeto](./jk-finanças/) |
 | **Prática HTML** | Conjunto de exercícios fundamentais para domínio da linguagem. | [Ver Projeto](./pratica_html/) |
 | **Lógica C (05 / C-)** | Repositórios focados em lógica e estruturas de dados. | [Ver Projeto](./projeto-05/) |
+
+
+
+
