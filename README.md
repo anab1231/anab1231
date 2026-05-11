@@ -63,8 +63,7 @@ Acredito que com foco e fé, tudo é possível! ✨
 | **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional. | 07/04 | https://github.com/anab1231/projeto-markneural/blob/main/README.md ✅ Concluído |
 | **SM7 - IA com Bubble.io** | Desenvolvimento No-Code integrado com IA. | 22/04 | https://github.com/anab1231/SM7---Engenharia-de-Software-e-IA-com-Bubble.io ✅ Concluído |
 | **SM8** | **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | 04/05 | [github.com/anab1231/videoaula-app](https://github.com/anab1231/videoaula-app/tree/main)  ✅ Concluído 
-
-|**SM8** | Composição Musical Assistida por Inteligência Artificial| 11/05 | 
+| **SM9** | **Composição Musical Assistida por Inteligência Artificial** | 11/05 | [github.com/anab1231/projeto-musica-ia](https://github.com/anab1231/projeto-musica-ia)  ✅ Concluído
 
 ---
 
